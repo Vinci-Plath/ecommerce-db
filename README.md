@@ -2,7 +2,7 @@
 
 *A comprehensive database design for online retail platforms*
 
-![Entity Relationship Diagram](ERD.png)
+![Entity Relationship Diagram](erd.png)
 
 ## Project Overview
 
